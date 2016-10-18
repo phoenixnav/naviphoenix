@@ -1,0 +1,15 @@
+@media screen and ( max-device-width: 480px ) {
+	/*Contenedores*/
+	.container {
+		width: 100%;
+	}
+	section > .container > h1 {
+		font-size: 1.2em
+	}
+	section > .container > h3 {
+		font-size: .9em;
+	}
+	footer > .container > p {
+		font-size: .8em;
+	}
+}
